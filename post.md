@@ -1,10 +1,12 @@
 ##1. Introduction
 
-Welcome back to our 2014 Authors! We've been hard at work building, testing and polishing our shiny new social authoring system, complete with GitHub integration and 5 star ratings, and we're finally ready to show it to the world. 
+Welcome back to our 2014 Authors! We've been hard at work building, testing and polishing our shiny new **social authoring system**, complete with **GitHub integration** and **5 star ratings**, and we're finally ready to show it to the world. 
 
-Here's a quick explanation of how it works. 
+In fact, **we're giving away $100 dollars to the first 10 authors who [create a post](https://www.airpair.com/posts/new) and submit it for review. **
 
-*If you're keen to try it out, feel free to skip my explanation. Just fork this post to see for yourself how it works. *
+Below you'll find a quick explanation of how it works. 
+
+*If you're keen to try it out, feel free to skip my explanation. Just [create a post](https://www.airpair.com/posts/new), or [fork this one](https://www.airpair.com/posts/fork/54e799a2ebda560c005c3034) to see for yourself. *
 
 ##2. Writing Process
 
