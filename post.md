@@ -78,6 +78,6 @@ Looking forward to your edits!
 
 ## 5. Some Links
 
-Jonathon has written in depth about why we built the new system in this post: [Social Authoring - An AirPair GitHub Baby](https://www.airpair.com/posts/review/54d52d45ee3c760a005e544e), and you can see more info about how to create a post, step by step, in this post: [Author FAQ](https://www.airpair.com/posts/review/54e33a70ec7cf70a00829703). 
+Jonathon has written in depth about why we built the new system in this post: [Social Authoring - An AirPair GitHub Baby](https://airpair.com/posts/review/54d52d45ee3c760a005e544e), and you can see more info about how to create a post, step by step, in this post: [Author FAQ](https://airpair.com/posts/review/54e33a70ec7cf70a00829703). 
 
 
