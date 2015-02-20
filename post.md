@@ -25,7 +25,7 @@ Take it for a spin and see your changes as you type.
 
 When you've hit at least 500 words, and you are happy for the AirPair community to see what you've created, submit your post for community review. 
 
-####2.2.1 Receive feedback
+####2.2.1 Receive Feedback
 
 Now readers can rate and review your post. 
 
