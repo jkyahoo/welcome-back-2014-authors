@@ -18,7 +18,7 @@ We've drastically improved the content editor. You are still writing in markdown
 
 Take it for a spin and see your changes as you type.
 
-![Content Editor](//imgur.com/GNJ41oE.png)
+> ![Content Editor](//imgur.com/GNJ41oE.png)
 
 <br>
 ###2.2 Submit your Post for Review 
@@ -31,7 +31,7 @@ Now readers can rate and review your post.
 
 *Every time someone rates your post, you’ll get an email notification so you can reply.*
 
-![Rate and Review Posts](//imgur.com/2nfkiNL.png)
+> ![Rate and Review Posts](//imgur.com/2nfkiNL.png)
 
 <br>
 ####2.2.2 Receive Suggestions
@@ -40,7 +40,7 @@ Readers can also fork your post on GitHub and edit the content.
 
 *Everytime someone forks and edits your post, you’ll get a notification so you can review and pull changes on github.*
 
-![Fork and Edit Posts](//imgur.com/Q8S60em.png)
+> ![Fork and Edit Posts](//imgur.com/Q8S60em.png)
 
 <br>
 > Posts currently under community review are accessible here: [https://www.airpair.com/posts/in-community-review](https://www.airpair.com/posts/in-community-review)
