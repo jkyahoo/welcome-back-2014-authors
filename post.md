@@ -16,7 +16,7 @@ The writing process now takes place in three steps:
 
 We've drastically improved the content editor. You are still writing in markdown, but now code blocks are the same as github flavored fenced code blocks. 
 
-Take it for a spin and see your changes as you type.
+Take it for a spin and see your changes as you type. Remember to save your changes as you go. 
 
 > ![Content Editor](//imgur.com/GNJ41oE.png)
 
